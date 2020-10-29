@@ -1,2 +1,2 @@
 # cachito-sample-package
-Samples packages for Cachito testing
+Sample packages for Cachito testing
